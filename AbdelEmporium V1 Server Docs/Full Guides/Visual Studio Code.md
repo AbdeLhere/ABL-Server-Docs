@@ -9,7 +9,7 @@
 
 Install the following Visual Studio Code extensions:
 
-- **[Sumneko Lua](https://marketplace.visualstudio.com/items?itemName=sumneko.lua)** extension
+- **[Sumneko Lua extension ](https://marketplace.visualstudio.com/items?itemName=sumneko.lua)** 
 - **[Gccfeli Lua Formatter](https://marketplace.visualstudio.com/items?itemName=gccfeli.vscode-lua)**
 - **[Prettier Code Formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)** (JavaScript, TypeScript, CSS, HTML, Vue, JSX)
 - **[FiveM Natives](https://marketplace.visualstudio.com/items?itemName=overextended.cfxlua-vscode)**
