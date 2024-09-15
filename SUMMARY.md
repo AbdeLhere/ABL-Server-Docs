@@ -9,3 +9,5 @@
 ## Must-Read Info & Resources
 
 * [Project Overview](must-read-info-and-resources/project-overview.md)
+* [Credits & Sources & Licenses](must-read-info-and-resources/credits-and-sources-and-licenses/README.md)
+  * [Page 1](must-read-info-and-resources/credits-and-sources-and-licenses/page-1.md)
