@@ -4,7 +4,8 @@
 
 * [Project Overview](README.md)
 * [Credits & Sources & Licenses](must-read-info-and-resources/credits-and-sources-and-licenses/README.md)
-  * [Original links](must-read-info-and-resources/credits-and-sources-and-licenses/original-links.md)
+  * [Original links](must-read-info-and-resources/credits-and-sources-and-licenses/original-links/README.md)
+    * [qb-core](https://github.com/qbcore-framework/qb-core)
   * [Credits](must-read-info-and-resources/credits-and-sources-and-licenses/credits.md)
   * [Licences](must-read-info-and-resources/credits-and-sources-and-licenses/licences.md)
 
