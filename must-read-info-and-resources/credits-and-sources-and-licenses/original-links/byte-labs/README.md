@@ -14,7 +14,9 @@ layout:
 
 # Byte Labs
 
-## <mark style="color:purple;">Introduction</mark>
+## <img src="../../../../.gitbook/assets/image.png" alt="" data-size="line"> Byte Labs
+
+## &#x20;<mark style="color:purple;">Introduction</mark>
 
 Welcome to Byte Labs, your ultimate destination for cutting-edge FiveM scripts that redefine the boundaries of virtual experiences. Your adventure begins with us – welcome to Byte Labs, where innovation knows no bounds.
 
