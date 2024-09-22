@@ -18,7 +18,7 @@
       * [qb-weapons](https://github.com/qbcore-framework/qb-weapons)
       * [qb-garages](must-read-info-and-resources/credits-and-sources-and-licenses/original-links/qbcore-framework/qb-garages.md)
       * [qb-core](https://github.com/qbcore-framework/qb-core)
-    * [qb-inventory](https://github.com/qbcore-framework/qb-inventory)
+      * [qb-inventory](https://github.com/qbcore-framework/qb-inventory)
   * [Credits](must-read-info-and-resources/credits-and-sources-and-licenses/credits.md)
   * [Licences](must-read-info-and-resources/credits-and-sources-and-licenses/licences.md)
 
