@@ -19,6 +19,12 @@
       * [qb-garages](must-read-info-and-resources/credits-and-sources-and-licenses/original-links/qbcore-framework/qb-garages.md)
       * [qb-core](https://github.com/qbcore-framework/qb-core)
       * [qb-inventory](https://github.com/qbcore-framework/qb-inventory)
+    * [iLLeniumStudios](must-read-info-and-resources/credits-and-sources-and-licenses/original-links/illeniumstudios/README.md)
+      * [illenium-appearance](https://github.com/iLLeniumStudios/illenium-appearance)
+    * [Byte Labs](must-read-info-and-resources/credits-and-sources-and-licenses/original-links/byte-labs/README.md)
+      * [bl\_bridge](https://github.com/Byte-Labs-Studio/bl\_bridge)
+      * [bl\_idcard](https://github.com/Byte-Labs-Studio/bl\_idcard)
+      * [bl\_vehiclemenu](https://github.com/Byte-Labs-Studio/bl\_vehiclemenu)
   * [Credits](must-read-info-and-resources/credits-and-sources-and-licenses/credits.md)
   * [Licences](must-read-info-and-resources/credits-and-sources-and-licenses/licences.md)
 
