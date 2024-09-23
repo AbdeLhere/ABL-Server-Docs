@@ -14,7 +14,7 @@ layout:
 
 # Byte Labs
 
-## <img src="../../../../.gitbook/assets/image.png" alt="" data-size="line"> Byte Labs
+## <img src="../../../../.gitbook/assets/image (1).png" alt="" data-size="line"> Byte Labs
 
 ## &#x20;<mark style="color:purple;">Introduction</mark>
 
