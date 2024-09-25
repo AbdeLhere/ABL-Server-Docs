@@ -27,6 +27,11 @@
       * [illenium-appearance](https://github.com/iLLeniumStudios/illenium-appearance)
     * [Renewed Scripts](must-read-info-and-resources/credits-and-sources-and-licenses/original-links/renewed-scripts/README.md)
       * [Renewed-Sirensync](https://github.com/Renewed-Scripts/Renewed-Sirensync)
+    * [Your-Spy](must-read-info-and-resources/credits-and-sources-and-licenses/original-links/your-spy/README.md)
+      * [spy-bodycam](https://github.com/Your-Spy/spy-bodycam)
+    * [WaypointRP](must-read-info-and-resources/credits-and-sources-and-licenses/original-links/waypointrp/README.md)
+      * [wp-placeables](https://github.com/WaypointRP/wp-placeables)
+      * [wp-pocketbikes](https://github.com/WaypointRP/wp-pocketbikes)
   * [Credits](must-read-info-and-resources/credits-and-sources-and-licenses/credits.md)
   * [Licences](must-read-info-and-resources/credits-and-sources-and-licenses/licences.md)
 
