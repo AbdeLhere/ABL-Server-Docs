@@ -1,4 +1,5 @@
 ---
+icon: angle-right
 layout:
   title:
     visible: true

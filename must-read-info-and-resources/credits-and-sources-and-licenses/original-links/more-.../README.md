@@ -1,5 +1,5 @@
 ---
-icon: angle-right
+icon: angles-right
 layout:
   title:
     visible: true
@@ -13,6 +13,5 @@ layout:
     visible: true
 ---
 
-# WaypointRP
+# More ...
 
-<figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>

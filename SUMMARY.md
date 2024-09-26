@@ -32,6 +32,8 @@
     * [WaypointRP](must-read-info-and-resources/credits-and-sources-and-licenses/original-links/waypointrp/README.md)
       * [wp-placeables](https://github.com/WaypointRP/wp-placeables)
       * [wp-pocketbikes](https://github.com/WaypointRP/wp-pocketbikes)
+    * [More ...](must-read-info-and-resources/credits-and-sources-and-licenses/original-links/more-.../README.md)
+      * [Megaphone-for-FiveM](https://github.com/cbdev9/Megaphone-for-FiveM)
   * [Credits](must-read-info-and-resources/credits-and-sources-and-licenses/credits.md)
   * [Licences](must-read-info-and-resources/credits-and-sources-and-licenses/licences.md)
 
