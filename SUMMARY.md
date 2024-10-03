@@ -49,6 +49,9 @@
     * [More ...](must-read-info-and-resources/credits-and-sources-and-licenses/original-links/more-.../README.md)
       * [Megaphone-for-FiveM](https://github.com/cbdev9/Megaphone-for-FiveM)
       * [era-outfits](https://github.com/Erazaya/era-outfits)
+    * [Jimathy](must-read-info-and-resources/credits-and-sources-and-licenses/original-links/jimathy/README.md)
+      * [jim-jobgarage](https://github.com/jimathy/jim-jobgarage)
+      * [jim-chairs](https://github.com/jimathy/jim-chairs)
   * [Credits](must-read-info-and-resources/credits-and-sources-and-licenses/credits.md)
   * [Licences](must-read-info-and-resources/credits-and-sources-and-licenses/licences.md)
 
