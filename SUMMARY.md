@@ -20,9 +20,9 @@
       * [qb-core](https://github.com/qbcore-framework/qb-core)
       * [qb-inventory](https://github.com/qbcore-framework/qb-inventory)
     * [Byte Labs](must-read-info-and-resources/credits-and-sources-and-licenses/original-links/byte-labs/README.md)
-      * [bl\_bridge](https://github.com/Byte-Labs-Studio/bl\_bridge)
-      * [bl\_idcard](https://github.com/Byte-Labs-Studio/bl\_idcard)
-      * [bl\_vehiclemenu](https://github.com/Byte-Labs-Studio/bl\_vehiclemenu)
+      * [bl\_bridge](https://github.com/Byte-Labs-Studio/bl_bridge)
+      * [bl\_idcard](https://github.com/Byte-Labs-Studio/bl_idcard)
+      * [bl\_vehiclemenu](https://github.com/Byte-Labs-Studio/bl_vehiclemenu)
     * [iLLeniumStudios](must-read-info-and-resources/credits-and-sources-and-licenses/original-links/illeniumstudios/README.md)
       * [illenium-appearance](https://github.com/iLLeniumStudios/illenium-appearance)
     * [Renewed Scripts](must-read-info-and-resources/credits-and-sources-and-licenses/original-links/renewed-scripts/README.md)
@@ -45,7 +45,7 @@
     * [MT Scripts](must-read-info-and-resources/credits-and-sources-and-licenses/original-links/mt-scripts/README.md)
       * [mt-rental](https://github.com/MT-Scripts/mt-rental-2.0)
     * [SOH69](must-read-info-and-resources/credits-and-sources-and-licenses/original-links/soh69/README.md)
-      * [mm\_radio](https://github.com/SOH69/mm\_radio)
+      * [mm\_radio](https://github.com/SOH69/mm_radio)
     * [Jimathy](must-read-info-and-resources/credits-and-sources-and-licenses/original-links/jimathy/README.md)
       * [jim-jobgarage](https://github.com/jimathy/jim-jobgarage)
       * [jim-chairs](https://github.com/jimathy/jim-chairs)
@@ -60,3 +60,7 @@
 * [Visual Studio Code Setup](<README (1).md>)
 * [Server Installation Guide](setup-and-installation-guides/server-installation-guide.md)
 * [Node.js Setup](setup-and-installation-guides/node.js.md)
+
+## Common Issues
+
+* [Xampp Mysql Module Not Starting](common-issues/xampp-mysql-module-not-starting.md)
