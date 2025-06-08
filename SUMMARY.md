@@ -64,3 +64,12 @@
 ## Common Issues
 
 * [Xampp Mysql Module Not Starting](common-issues/xampp-mysql-module-not-starting.md)
+
+## Useful Info&#x20;
+
+* [Server Essentials](useful-info/server-essentials.md)
+* [Key References](useful-info/key-references.md)
+* [Game References & Debugging](useful-info/game-references-and-debugging.md)
+* [Development Services](useful-info/development-services.md)
+* [FiveM Artifacts DB](useful-info/fivem-artifacts-db.md)
+* [Scripting Resources](useful-info/scripting-resources.md)
